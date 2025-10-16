@@ -1,2 +1,2 @@
-its a visualizer
-\ni have plans for it
+its a visualizer...
+i have plans for it
